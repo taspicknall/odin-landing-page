@@ -1,0 +1,14 @@
+ul {
+    display: flex;
+    gap: 12px
+    list-style-type: none;
+    
+
+
+
+
+}
+li.logo{
+    margin-right: auto;
+
+}
