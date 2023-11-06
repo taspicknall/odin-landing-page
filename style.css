@@ -116,20 +116,31 @@ div.blue-container{
 }
 div.small-action-container{
     width: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
 }
 h3{
-    margin-bottom: 2px;
+    margin: 2px 0 2px 0;
     font-size: 17px;
     
 }
 p.sign-up{
     margin-top: 0px;
     width: 400px;
-   
+}
+div.button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
 button.sign-up-2{
     padding: 4px 25px 5px 25px;
-    border: 0;
+    height: 30px;
+    width: 100px;
+    border: 2px solid white;
     margin: 5px 0 0 0;
     border-radius: 5px;
 }
