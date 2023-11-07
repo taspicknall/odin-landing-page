@@ -121,12 +121,10 @@ div.small-action-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
 }
 h3{
     margin: 2px 0 2px 0;
     font-size: 17px;
-    
 }
 p.sign-up{
     margin-top: 0px;
@@ -137,7 +135,6 @@ div.button-container{
     flex-direction: column;
     justify-content: center;
     background-color: #3882f6;
-
 }
 button.sign-up-2{
     padding: 4px 25px 5px 25px;
