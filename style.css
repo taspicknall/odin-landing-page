@@ -12,8 +12,8 @@ body{
 }
 nav{
     height: 375px;
-    background-color: rgb(42, 42, 76);
-    color: rgb(255, 255, 255);
+    background-color: #1f2937;
+    color: #F9FAF8;
 }
 ul {
     display: flex;
@@ -143,4 +143,17 @@ button.sign-up-2{
     border: 2px solid white;
     margin: 5px 0 0 0;
     border-radius: 5px;
+}
+div.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(9, 9, 54);
+    color: white;
+    margin: 0;
+}
+p.copyright{
+    margin: 0;
+    width: auto;
 }
